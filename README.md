@@ -1,5 +1,5 @@
 # Excel-Dashboard-Project-
-Project shows a working dashboard example utilzing charts and slicers to interact with the data and see specific metrics.
+Project shows a working dashboard example utilzing charts and slicers to dyamically interact and see specific metrics.
 
 Includes an excel file showing the project
 
